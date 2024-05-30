@@ -3,15 +3,15 @@
 ### Pangram testi yapan kod.
 
 Test için cümle:
-"jübile, hepsi eğitim gönüllüleri vakfı içindi, coşuyoruz."
+
+_"jübile, hepsi eğitim gönüllüleri vakfı içindi, coşuyoruz."_
 
 Test için cümle:
 
-"bahçede acı jambonlu zayıf tavuk göğsü pişir."
+_"bahçede acı jambonlu zayıf tavuk göğsü pişir."_
 
 
 
 ### Kelime anagram testi yapan kod
 
-_"listen"_,_"silent"_
-_"ate",_"eat"
+_"tarih"_,_"ihtar"_
