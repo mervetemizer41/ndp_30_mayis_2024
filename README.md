@@ -12,3 +12,6 @@ Test için cümle:
 
 
 ### Kelime anagram testi yapan kod
+
+_"listen"_,_"silent"_
+_"ate",_"eat"
