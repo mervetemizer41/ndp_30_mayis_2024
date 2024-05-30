@@ -14,4 +14,6 @@ _"bahçede acı jambonlu zayıf tavuk göğsü pişir."_
 
 ### Kelime anagram testi yapan kod
 
+Test için kelime:
+
 _"tarih"_,_"ihtar"_
