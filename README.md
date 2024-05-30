@@ -1,4 +1,4 @@
-# ndp_30_mayis_odevleri
+# ndp_30_mayis_2024_odevleri
 
 ### Pangram testi yapan kod.
 
