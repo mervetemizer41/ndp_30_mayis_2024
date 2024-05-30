@@ -17,3 +17,4 @@ _"bahçede acı jambonlu zayıf tavuk göğsü pişir."_
 Test için kelime:
 
 _"tarih"_,_"ihtar"_
+_"sarf"_, _"fars"_
